@@ -1,0 +1,1 @@
+ALTER TABLE "stats" ALTER COLUMN "click" SET NOT NULL;

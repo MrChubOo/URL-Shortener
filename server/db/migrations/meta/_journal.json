@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1730968739014,
+      "tag": "0000_large_carnage",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1730980311612,
+      "tag": "0001_living_magneto",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1730980445561,
+      "tag": "0002_marvelous_thanos",
+      "breakpoints": true
+    }
+  ]
+}
